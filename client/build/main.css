@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  margin:50px;
+}
+
+h2{
+  font-size: 50px;
+  color: red;
+  font-variant: small-caps;
+  margin: 0;
+}
